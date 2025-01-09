@@ -1,62 +1,57 @@
-// you can overwrite this entire file with your v0 Component.
-// just copy and paste the "React" output over the entire file.
+# Weekly Workout Plan
 
-import Link from "next/link";
-import React from "react";
-import {V0Logo} from "./symbols";
+## Monday: Upper Body Strength
+- Warm-up: 5-10 minutes of light cardio
+- Push-ups: 3 sets of 10-15 reps
+- Dumbbell rows: 3 sets of 10-12 reps per arm
+- Shoulder press: 3 sets of 10-12 reps
+- Bicep curls: 3 sets of 10-12 reps
+- Tricep dips: 3 sets of 10-15 reps
+- Cool-down: 5-10 minutes of stretching
 
-function TestComponent() {
-  return (
-    <div
-      style={{
-        display: "flex",
-        height: "100%",
-        justifyContent: "space-between",
-        flexDirection: "column",
-        width: "100%",
-      }}
-    >
-      <h3
-        style={{
-          maxWidth: "11em",
-        }}
-      >
-        This would be a pretty good place for a{" "}
-        <Link href="https://v0.dev/" target="_blank" rel="noopener noreferrer">
-          v0 component
-        </Link>
-        , wouldn't it?
-      </h3>
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "flex-end",
-          width: "100%",
-        }}
-      >
-        <p
-          style={{
-            maxWidth: "20em",
-          }}
-        >
-          Go make one, then paste it into{" "}
-          <code
-            style={{
-              fontFamily: "var(--font-geist-mono)",
-              fontWeight: 500,
-              fontSize: "0.95em",
-              fontFeatureSettings: "'ss09'",
-            }}
-          >
-            app/components/MyV0Component.tsx
-          </code>
-        </p>
+## Tuesday: Lower Body Strength
+- Warm-up: 5-10 minutes of light cardio
+- Squats: 3 sets of 12-15 reps
+- Lunges: 3 sets of 10 reps per leg
+- Deadlifts: 3 sets of 10-12 reps
+- Calf raises: 3 sets of 15-20 reps
+- Cool-down: 5-10 minutes of stretching
 
-        <V0Logo />
-      </div>
-    </div>
-  );
-}
+## Wednesday: Cardio and Core
+- 30 minutes of moderate-intensity cardio (e.g., jogging, cycling, or swimming)
+- Plank: 3 sets of 30-60 seconds
+- Bicycle crunches: 3 sets of 20 reps
+- Russian twists: 3 sets of 20 reps
+- Leg raises: 3 sets of 12-15 reps
 
-export default TestComponent;
+## Thursday: Upper Body Strength (different exercises)
+- Warm-up: 5-10 minutes of light cardio
+- Dumbbell chest press: 3 sets of 10-12 reps
+- Lat pulldowns or pull-ups: 3 sets of 8-10 reps
+- Lateral raises: 3 sets of 12-15 reps
+- Hammer curls: 3 sets of 10-12 reps
+- Overhead tricep extensions: 3 sets of 10-12 reps
+- Cool-down: 5-10 minutes of stretching
+
+## Friday: Lower Body Strength (different exercises)
+- Warm-up: 5-10 minutes of light cardio
+- Leg press or goblet squats: 3 sets of 12-15 reps
+- Step-ups: 3 sets of 10 reps per leg
+- Romanian deadlifts: 3 sets of 10-12 reps
+- Glute bridges: 3 sets of 15 reps
+- Cool-down: 5-10 minutes of stretching
+
+## Saturday: Cardio and Flexibility
+- 45 minutes of moderate-intensity cardio (e.g., brisk walking, cycling, or swimming)
+- 15-20 minutes of yoga or general stretching
+
+## Sunday: Rest and Recovery
+- Light activity if desired (e.g., gentle walk or stretch)
+- Focus on rest and recovery
+
+Remember to:
+1. Stay hydrated throughout your workouts
+2. Listen to your body and adjust the intensity as needed
+3. Maintain proper form to prevent injuries
+4. Gradually increase weights or reps as you get stronger
+5. Get enough sleep and eat a balanced diet to support your fitness goals
